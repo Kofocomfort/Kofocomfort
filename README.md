@@ -18,13 +18,13 @@
 #### About
 Here are some basic things to know about Kofo 😀;
 
-- 🔭 I’m currently working on acquiring new skills,
+- 🔭 I’m currently working on new projects,
 - 🌱 I’m currently a  Fullstack Web Developer,
 - 👯 I’m looking to collaborate on projects,
 - 🤔 I’m looking for help with expanding my knowledge,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: , Phone: ,
-- 😄 Pronouns: He/Him/His,
+- 😄 Pronouns: She/Her,
 - ⚡ Fun fact: I am a Model.
 
 #### My Core Languages
