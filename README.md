@@ -9,9 +9,9 @@
 
 
 #### Connect with me 
-<a href=" "><img src="images/linkedin.png" width="60" /></a>
-<a href=" "><img src="images/twitter.png" width="60" /></a>
-<a href=" "><img src="images/ig.png" width="70" /></a>
+<a href="https://www.linkedin.com/in/kofoworola-ajayi-b429a2244/"><img src="images/linkedin.png" width="60" /></a>
+<a href="https://twitter.com/kofo_ajayi"><img src="images/twitter.png" width="60" /></a>
+<a href="https://www.instagram.com/kofoajayii/"><img src="images/ig.png" width="70" /></a>
 
 
 
