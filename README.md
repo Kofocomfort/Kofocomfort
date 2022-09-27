@@ -19,13 +19,13 @@
 Here are some basic things to know about Kofo 😀;
 
 - 🔭 I’m currently working on acquiring new skills,
-- 🌱 I’m currently learning Fullstack Web Development,
+- 🌱 I’m currently a  Fullstack Web Developer,
 - 👯 I’m looking to collaborate on projects,
-- 🤔 I’m looking for help with expanding my community
+- 🤔 I’m looking for help with expanding my knowledge,
 - 💬 Ask me about anything🌚,
-- 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
+- 📫 How to reach me: Email: , Phone: ,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming.
+- ⚡ Fun fact: I am a Model.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
