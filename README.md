@@ -1,6 +1,6 @@
 <h1> Hello Everyone 👋🏾 </h1>
     
-<h1>Welcome To My Profile 😀</h1>
+<h1>Welcome To My Profile 🌚</h1>
 
 
 
@@ -16,7 +16,7 @@
 
 
 #### About
-Here are some basic things to know about Kofo 😀;
+Here are some basic things to know about Kofo 🌚;
 
 - 🔭 I’m currently working on new projects,
 - 🌱 I’m currently a  Fullstack Web Developer,
