@@ -23,7 +23,7 @@ Here are some basic things to know about Kofo 😀;
 - 👯 I’m looking to collaborate on projects,
 - 🤔 I’m looking for help with expanding my knowledge,
 - 💬 Ask me about anything🌚,
-- 📫 How to reach me: Email: , Phone: ,
+- 📫 How to reach me: Email: kofoajayi952@gmail.com, Phone: +2349064014466,
 - 😄 Pronouns: She/Her,
 - ⚡ Fun fact: I am a Model.
 
