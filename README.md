@@ -7,23 +7,16 @@
 ###   **What's my current role in tech?** </h2>
        { fullStackDeveloper } 
 
-###   **Founder/C.E.O of ANTAPEX** </h2>
-#### Follow ANTAPEX via;
-<a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
-<a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
-
-
-
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/adegokefuad1/"><img src="images/ig.png" width="70" /></a>
+<a href=" "><img src="images/linkedin.png" width="60" /></a>
+<a href=" "><img src="images/twitter.png" width="60" /></a>
+<a href=" "><img src="images/ig.png" width="70" /></a>
 
-<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 #### About
-Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
+Here are some basic things to know about Kofo 😀;
 
 - 🔭 I’m currently working on acquiring new skills,
 - 🌱 I’m currently learning Fullstack Web Development,
