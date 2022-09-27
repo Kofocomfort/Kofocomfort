@@ -64,9 +64,4 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliphatichyd" alt="aliphatichyd" /></a> </p>
-
-       
-#### Lifestyle
-![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
 
