@@ -36,7 +36,7 @@ Here are some basic things to know about Kofo 😀;
 
 #### Frameworks I Use
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
-<code><img src="images/Bulma.png" width="110" title="Bulma" /></code>  <code><img src="images/jQuery.png" width="70" title="jQuery" /></code>  
+<code><img src="images/Bulma.png" width="110" title="Bulma" /></code> 
 <code><img src="images/react.png" width="80" title="React" /></code>
 <code><img src="images/api.jpg" width="70" title="API" /></code>
 <code><img src="images/json.png" width="70" title="JSON" /></code>
